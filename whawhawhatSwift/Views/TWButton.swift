@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TWButton: UIButton {
+public class TWButton: UIButton {
     var index:Int = 0
     var section:Int = 0
     var row:Int = 0
