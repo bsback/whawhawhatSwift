@@ -9,9 +9,9 @@
 import UIKit
 
 public class TWButton: UIButton {
-    var index:Int = 0
-    var section:Int = 0
-    var row:Int = 0
+    public var index:Int = 0
+    public var section:Int = 0
+    public var row:Int = 0
     
     
 }
